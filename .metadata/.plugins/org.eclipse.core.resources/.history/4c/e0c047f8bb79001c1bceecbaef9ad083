@@ -1,0 +1,20 @@
+
+public class Triangle {
+	double area;
+	int height;
+	int length;
+	public static void main(String[] args) {
+		
+		
+		while() {
+			
+		}
+		
+		x=27;
+		Triangle t5=ta[2];
+		ta[2].area=343;
+		
+		
+	}
+
+}
